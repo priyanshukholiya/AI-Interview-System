@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+websockets
+python-dotenv
+groq
+edge-tts
+deepgram-sdk
+pydantic
